@@ -1,4 +1,4 @@
-# 💻 Projeto Bancário em PHP
+# 💻 Sistema Bancário em PHP (Projeto de Estudo)
 
 ## 📌 Objetivo
 Projeto desenvolvido com o objetivo de praticar lógica de programação e simulação de operações bancárias.
